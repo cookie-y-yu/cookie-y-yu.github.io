@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Anomaly Detection of Industrial Smelting Furnace Incorporated With Accelerated Sampling Denoising Diffusion Probability Model and Conv-Transformer"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-1-26-paper-title-number-1
